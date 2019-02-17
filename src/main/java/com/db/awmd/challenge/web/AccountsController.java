@@ -64,6 +64,4 @@ public class AccountsController {
 		return new ResponseEntity<>(HttpStatus.OK);	  
 	}
 
-
-
 }
